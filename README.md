@@ -1,2 +1,2 @@
 # arduino
-progressive saves of a mini shooter on a 8x8 screen
+Sound visualization using an arduino board, 8x8 display and a sound detector
