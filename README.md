@@ -1,2 +1,2 @@
 # arduino
-Sound visualization using an arduino board, 8x8 display and a sound detector
+Experimenting with Arduino, 8x8LED screen and accomplices
