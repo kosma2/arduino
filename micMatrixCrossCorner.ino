@@ -1,7 +1,7 @@
 // include the library and assign the pins
 
 #include "LedControl.h"
-LedControl lc = LedControl(12, 10, 11, 1);
+LedControl lc = LedControl(12, 11, 10, 1);
 
 // declare variables
 
